@@ -1,3 +1,8 @@
+## Site Preview
+
+[Click here to preview](https://sawruh.github.io/firstsite-from-Odin/)
+
+
 25 FEB:
 -HTML file prepared
 
